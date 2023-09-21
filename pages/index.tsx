@@ -8,7 +8,7 @@ export default function Home() {
         <meta name='description' content='Netflix clone using nextjs13' />
       </Head>
 
-      <h1>Netflix Clone</h1>
+      <h1 className='text-white'>Netflix Clone</h1>
     </>
   )
 }
