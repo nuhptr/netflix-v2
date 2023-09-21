@@ -6,6 +6,8 @@
 - [Prisma](https://www.prisma.io/)
   - \*\* npm install prisma -D (ORM Database)
   - \*\* npx prisma init (Create prisma folder)
+- [Prisma Client](https://www.prisma.io/docs/concepts/components/prisma-client)
+  - \*\* npx prisma generate (Generate Prisma Client)
 
 ## Learn More
 
