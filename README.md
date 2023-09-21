@@ -12,6 +12,8 @@
   - \*\* npx prisma generate (Generate Prisma Client)
 - [Next Auth](https://next-auth.js.org/) - npm install next-auth
 - [Bcrypt](https://www.npmjs.com/package/bcrypt) - npm install bcrypt && npm install @types/bcrypt -D
+- [@Next-Auth/Prisma-Adapter](https://next-auth.js.org/adapters/prisma) - npm install @next-auth/prisma-adapter
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
