@@ -15,6 +15,13 @@
 - [@Next-Auth/Prisma-Adapter](https://next-auth.js.org/adapters/prisma) - npm install @next-auth/prisma-adapter
 - [Axios](https://www.npmjs.com/package/axios) - npm install axios
 - [React Icons](https://react-icons.github.io/react-icons/) - npm install react-icons
+- [SWR](https://swr.vercel.app/) - npm install swr
+
+## Integrated
+
+- For github open developer setting
+- for google open google cloud console -> api & services -> credentials
+- For google don't forget add `http://localhost:3000/api/auth/callback/google` in Authorized redirect URIs
 
 ## Learn More
 
