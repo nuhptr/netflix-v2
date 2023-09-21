@@ -13,6 +13,7 @@
 - [Next Auth](https://next-auth.js.org/) - npm install next-auth
 - [Bcrypt](https://www.npmjs.com/package/bcrypt) - npm install bcrypt && npm install @types/bcrypt -D
 - [@Next-Auth/Prisma-Adapter](https://next-auth.js.org/adapters/prisma) - npm install @next-auth/prisma-adapter
+- [Axios](https://www.npmjs.com/package/axios) - npm install axios
 
 ## Learn More
 
