@@ -4,8 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 - [Next.js](https://nextjs.org/) - npx create-next-app@latest --typescript --tailwind
 - [Prisma](https://www.prisma.io/)
-  \*\* npm install prisma -D (ORM Database)
-  \*\* npx prisma init (Create prisma folder)
+  - \*\* npm install prisma -D (ORM Database)
+  - \*\* npx prisma init (Create prisma folder)
 
 ## Learn More
 
