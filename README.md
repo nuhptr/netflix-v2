@@ -14,6 +14,7 @@
 - [Bcrypt](https://www.npmjs.com/package/bcrypt) - npm install bcrypt && npm install @types/bcrypt -D
 - [@Next-Auth/Prisma-Adapter](https://next-auth.js.org/adapters/prisma) - npm install @next-auth/prisma-adapter
 - [Axios](https://www.npmjs.com/package/axios) - npm install axios
+- [React Icons](https://react-icons.github.io/react-icons/) - npm install react-icons
 
 ## Learn More
 
