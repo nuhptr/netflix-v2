@@ -16,6 +16,7 @@
 - [Axios](https://www.npmjs.com/package/axios) - npm install axios
 - [React Icons](https://react-icons.github.io/react-icons/) - npm install react-icons
 - [SWR](https://swr.vercel.app/) - npm install swr
+- [Lodash](https://lodash.com/) - npm install lodash && npm install -D @types/lodash (utilities library)
 
 ## Integrated
 
