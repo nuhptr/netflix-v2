@@ -19,7 +19,7 @@ export default async function handler(request: NextApiRequest, response: NextApi
     })
 
     return response.status(201).json({ message: 'User created!', user })
-  } catch (error) {
+  } catch (error: any) {
     console.error(error)
     return response.status(400).end()
   }
