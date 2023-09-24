@@ -17,6 +17,8 @@
 - [React Icons](https://react-icons.github.io/react-icons/) - npm install react-icons
 - [SWR](https://swr.vercel.app/) - npm install swr
 - [Lodash](https://lodash.com/) - npm install lodash && npm install -D @types/lodash (utilities library)
+- [Heroicons](https://github.com/tailwindlabs/heroicons) - npm install @heroicons/react@latest
+- [Zustand](https://zustand-demo.pmnd.rs/) - npm install zustand@latest (state management)
 
 ## Integrated
 
