@@ -10,6 +10,7 @@ const nextConfig = {
       'mango.blender.org',
       'download.blender.org',
       'github.com',
+      'storage.googleapis.com',
     ],
   },
 }
