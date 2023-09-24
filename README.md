@@ -1,5 +1,7 @@
 # Creating a Fullstack App with Next.js and Prisma Netflix Clone
 
+![Fullstack Netflix Clone](https://github.com/nuhptr/netflix-clone-v2/assets/50306963/60c591b5-3d65-4b39-93e6-6d2bfba317d1)
+
 ## Getting Started
 
 - [Next.js](https://nextjs.org/) - npx create-next-app@latest --typescript --tailwind
