@@ -26,6 +26,22 @@
 - for google open google cloud console -> api & services -> credentials
 - For google don't forget add `http://localhost:3000/api/auth/callback/google` in Authorized redirect URIs
 
+## env
+
+```javascript
+DATABASE_URL=""
+NEXTAUTH_JWT_SECRET=""
+NEXTAUTH_SECRET=""
+
+# buka github developer oauth lu
+GITHUB_ID=
+GITHUB_SECRET=
+
+# buka console google lu
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+```
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:

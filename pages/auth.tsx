@@ -61,6 +61,9 @@ export default function Auth() {
 
           <div className='flex justify-center'>
             <div className='bg-black bg-opacity-70 px-14 py-10 self-center mt-2 lg:w-2/5 lg:max-w-md rounded-md w-full'>
+              <p className='text-red-500 text-xl mb-2'>
+                Please don&apos;t use real netflix account!
+              </p>
               <h2 className='text-white text-4xl mb-8 font-semibold'>
                 {variant === 'login' ? 'Sign In' : 'Create an account'}
               </h2>
