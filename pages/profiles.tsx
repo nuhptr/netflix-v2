@@ -6,10 +6,6 @@ import { useRouter } from 'next/router'
 
 import useCurrentUser from '@/hooks/use-current-user'
 
-interface UserCardProps {
-  name: string
-}
-
 export async function getServerSideProps(context: NextPageContext) {
   const session = await getSession(context)
   if (!session) return { redirect: { destination: '/auth', permanent: false } }
@@ -39,7 +35,7 @@ export default function Profiles() {
                     alt='Profile'
                     width={150}
                     height={150}
-                    objectFit='contain'
+                    className='object-contain'
                     priority
                   />
                 </div>
