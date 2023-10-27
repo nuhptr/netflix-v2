@@ -6,8 +6,8 @@
 
 -  [Next.js](https://nextjs.org/) - npx create-next-app@latest --typescript --tailwind
 -  [Prisma](https://www.prisma.io/)
-   -  \*\* npm install prisma -D (ORM Database)
-   -  \*\* npx prisma init (Create prisma folder)
+   -  npm install prisma -D (ORM Database)
+   -  npx prisma init (Create prisma folder)
    -  \*\* npx prisma db push (Create database)
 -  [Prisma Client](https://www.prisma.io/docs/concepts/components/prisma-client)
    -  \*\* npm install @prisma/client (Prisma Client)
