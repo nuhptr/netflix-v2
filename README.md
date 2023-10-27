@@ -8,10 +8,10 @@
 -  [Prisma](https://www.prisma.io/)
    -  npm install prisma -D (ORM Database)
    -  npx prisma init (Create prisma folder)
-   -  \*\* npx prisma db push (Create database)
+   -  npx prisma db push (Create database)
 -  [Prisma Client](https://www.prisma.io/docs/concepts/components/prisma-client)
-   -  \*\* npm install @prisma/client (Prisma Client)
-   -  \*\* npx prisma generate (Generate Prisma Client)
+   -  npm install @prisma/client (Prisma Client)
+   -  npx prisma generate (Generate Prisma Client)
 -  [Next Auth](https://next-auth.js.org/) - npm install next-auth
 -  [Bcrypt](https://www.npmjs.com/package/bcrypt) - npm install bcrypt && npm install @types/bcrypt -D
 -  [@Next-Auth/Prisma-Adapter](https://next-auth.js.org/adapters/prisma) - npm install @next-auth/prisma-adapter
