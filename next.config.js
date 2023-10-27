@@ -1,18 +1,18 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  images: {
-    domains: [
-      'lh3.googleusercontent.com',
-      'avatars.githubusercontent.com',
-      'upload.wikimedia.org',
-      'uhdtv.io',
-      'mango.blender.org',
-      'download.blender.org',
-      'github.com',
-      'storage.googleapis.com',
-    ],
-  },
+   reactStrictMode: true,
+   images: {
+      remotePatterns: [
+         { protocol: "https", hostname: "lh3.googleusercontent.com", path: "" },
+         { protocol: "https", hostname: "avatars.githubusercontent.com", path: "" },
+         { protocol: "https", hostname: "upload.wikimedia.org", path: "" },
+         { protocol: "https", hostname: "uhdtv.io", path: "" },
+         { protocol: "https", hostname: "mango.blender.org", path: "" },
+         { protocol: "https", hostname: "download.blender.org", path: "" },
+         { protocol: "https", hostname: "github.com", path: "" },
+         { protocol: "https", hostname: "storage.googleapis.com", path: "" },
+      ],
+   },
 }
 
 module.exports = nextConfig

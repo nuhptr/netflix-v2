@@ -1,6 +1,6 @@
-import useSWR from 'swr'
+import useSWR from "swr"
 
-import fetcher from '@/helpers/fetcher'
+import fetcher from "@/helpers/fetcher"
 
 export default function useMovie(id?: string) {
    const { data, error, isLoading } = useSWR(id ? `/api/movies/${id}` : null, fetcher, {
