@@ -43,3 +43,8 @@ GITHUB_SECRET=
 GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
 ```
+
+## Package Install
+
+-  use `npm install --legacy-peer-deps` if you get error
+-  delete old package.lock.json and node_modules

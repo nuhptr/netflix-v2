@@ -3,14 +3,14 @@ const nextConfig = {
    reactStrictMode: true,
    images: {
       remotePatterns: [
-         { protocol: "https", hostname: "lh3.googleusercontent.com", path: "" },
-         { protocol: "https", hostname: "avatars.githubusercontent.com", path: "" },
-         { protocol: "https", hostname: "upload.wikimedia.org", path: "" },
-         { protocol: "https", hostname: "uhdtv.io", path: "" },
-         { protocol: "https", hostname: "mango.blender.org", path: "" },
-         { protocol: "https", hostname: "download.blender.org", path: "" },
-         { protocol: "https", hostname: "github.com", path: "" },
-         { protocol: "https", hostname: "storage.googleapis.com", path: "" },
+         { protocol: "https", hostname: "lh3.googleusercontent.com" },
+         { protocol: "https", hostname: "avatars.githubusercontent.com" },
+         { protocol: "https", hostname: "upload.wikimedia.org" },
+         { protocol: "http", hostname: "uhdtv.io" },
+         { protocol: "https", hostname: "mango.blender.org" },
+         { protocol: "https", hostname: "download.blender.org" },
+         { protocol: "https", hostname: "github.com" },
+         { protocol: "https", hostname: "storage.googleapis.com" },
       ],
    },
 }
